@@ -13,12 +13,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 
-
-## 🌱 About Me  
-- 🎓 I'm currently in my **9th trimester** of **Computer Engineering**  
-- 💡 I love exploring new technologies and developing creative solutions  
-- 💻 Interested in **software development, data science, and cloud computing**  
-- 🚀 Open to **collaborations, internships, and new learning experiences**  
+## 🔍 You can reach me on:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:montanezyeglimar4@gmail.com)  
 
 ## 🎯 Fun Fact  
 ✨ "Every line of code is a step towards innovation!"  
