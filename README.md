@@ -1,10 +1,9 @@
 ## Hi there, I'm Yeglimar👋
 
-🎓 Computer Engineering Student | 9th Trimester
-💡 Passionate about technology, coding, and problem-solving  
+🎓 Computer Engineering Student | 9th Trimester 💡 Passionate about technology, coding, and problem-solving  
 🚀 Always learning and building exciting projects  
 
-## 🛠️ Tech Stack  
+## 🛠️ My current skills are:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
