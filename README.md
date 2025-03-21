@@ -1,6 +1,7 @@
 ## Hi there, I'm Yeglimar👋
 
-🎓 Computer Engineering Student | 9th Trimester 💡 Passionate about technology, coding, and problem-solving  
+🎓 Computer Engineering Student | 9th Trimester 
+💡Passionate about technology, coding, and problem-solving  
 🚀 Always learning and building exciting projects  
 
 ## 🛠️ My current skills are:
