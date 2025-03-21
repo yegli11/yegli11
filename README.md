@@ -1,7 +1,5 @@
 ## Hi there, I'm Yeglimar👋
 
-# 👋 Hi there, I'm [Tu Nombre]  
-
 🎓 **Computer Engineering Student | 9th Trimester** 
 💡 Passionate about technology, coding, and problem-solving  
 🚀 Always learning and building exciting projects  
