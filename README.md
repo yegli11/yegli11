@@ -15,6 +15,11 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![DbSchema](https://img.shields.io/badge/DbSchema-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
+![Navicat](https://img.shields.io/badge/Navicat-3A4D58?style=for-the-badge&logo=navicat&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
 
 
 ## 🔍 You can reach me on:
